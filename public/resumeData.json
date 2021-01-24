@@ -4,7 +4,8 @@
     "occupation": "Junior Full Stack Developer",
     "description": "I love to code and learn new technologies",
     "image": "profilepic.jpg",
-    "bio": "Hey, I'm Sophie! I recently completed a Diploma in September as a Full Stack Developer online with the Code Institute.  My career background is with Financial Institutions and I am currently working as a Customer Account Executive at KBC Bank. I am looking to change my career and move into the world of development. I am passionate about Software Development and when I am not working I am expanding my software skills and expending my knowledge by building some amazing apps such as a Snapchat, LinkedIn and Spotify Clones. When I am not building apps I am working on creating and building websites using Thrive Themes. ",
+    "bio": "Hey, I'm Sophie! I recently completed a Diploma in September as a Full Stack Developer online with the Code Institute. My career background is with Financial Institutions and I am currently working as a Customer Account Executive at KBC Bank. I am looking to change my career and move into the world of development. I am passionate about Software Development and when I am not working I am expanding my software skills and expending my knowledge by building some amazing apps such as a Snapchat, LinkedIn and Spotify Clones. When I am not building apps I am working on creating and building websites using Thrive Themes. ",
+    "bio_two": "I have knowledge with Python, Flask, Django, JavaScript, NodeJs, Reactjs, Bootstrap, Material-UI, MongoDB, AWA, Firebase snd Heroku. " ,
     "contactmessage": "Feel free to contact me for more information!",
     "email": "sophiehickey123@gmail.com",
     "phone": "0857442538",    
@@ -106,7 +107,7 @@
       {
         "title": "LinkedIn Clone (Reactjs)",
         "category": "",
-        "image": "linkedinMockup.PNG",
+        "image": "linkedIn.JPG",
         "url": "https://linkedin-clone-78c3d.web.app/"
       },
       {

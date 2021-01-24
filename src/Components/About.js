@@ -5,6 +5,7 @@ const About = ({ data }) => {
     var name = data.name;
     var profilepic = "images/" + data.image;
     var bio = data.bio;
+    var bio_two = data.bio_two;
     var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
@@ -28,6 +29,7 @@ const About = ({ data }) => {
           <h2>About Me</h2>
 
           <p>{bio}</p>
+          <p>{bio_two}</p>
           <div className="row">
             <div className="columns contact-details">
               <h2>Contact Details</h2>
