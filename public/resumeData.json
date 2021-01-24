@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Sophie Hickey",
+    "occupation": "Junior Full Stack Developer",
+    "description": "I love to code and learn new technologies",
+    "image": "profilepic.jpg",
+    "bio": "Hey, I'm Sophie! I recently completed a Diploma in September as a Full Stack Developer online with the Code Institute.  My career background is with Financial Institutions and I am currently working as a Customer Account Executive at KBC Bank. I am looking to change my career and move into the world of development. I am passionate about Software Development and when I am not working I am expanding my software skills and expending my knowledge by building some amazing apps such as a Snapchat, LinkedIn and Spotify Clones. When I am not building apps I am working on creating and building websites using Thrive Themes. ",
+    "contactmessage": "Feel free to contact me for more information!",
+    "email": "sophiehickey123@gmail.com",
+    "phone": "0857442538",    
+    "address": {
+      "street": "Seapoint Avenue",
+      "city": "Dublin",
+      "state": "Ireland ",
+      "zip": "NA"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "cv.pdf",
+    "social": [          
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sophiehickey/",
+        "className": "fa fa-linkedin"
+      },      
+      {
+        "name": "github",
+        "url": "https://github.com/SophieH93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Code Institute",
+        "degree": "Diploma, Full Stack Developer",
+        "graduated": "October 2020",
+        "description": "Graduated with Second Class Honours"
+      },
+      {
+        "school": "Dún Laoghaire Institute of Art, Design and Technology",
+        "degree": "Bachelor’s Degree, Business & Entrepreneurship",
+        "graduated": "June 2016 ",
+        "description": "Graduated with a Distinction (First Class Honours)"
+      }
+    ],
+    "work": [
+      {
+        "company": "KBC Bank",
+        "title": "Customer Account Executive",
+        "years": "Sept 2018 - Present",
+        "description": "Working on the AML department, my role complies of dealing with customer via phone and email to help them proceed with opening a new account. I request suitable documentation, review these documents and answer customer queries regarding their account."
+      },
+      {
+        "company": "AIB Bank",
+        "title": "Data Inputter/Administrator",
+        "years": "Sept. 2016 - March 2018",
+        "description": "Worked on a contract basis within two different departments, Wealth & Retirement PLanning and Bespoke Investments."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "78%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone (Reactjs)",
+        "category": "",
+        "image": "spotify.JPG",
+        "url": "https://www.loom.com/share/cfff684c8f6b41e69db9cf38f4ca4523"
+      },
+      {
+        "title": "Snapchat Clone (Reactjs)",
+        "category": "",
+        "image": "snapchat.PNG",
+        "url": "https://snapchat-clone-38fbd.web.app/"
+      },
+      {
+        "title": "Netflix Clone (Reactjs)",
+        "category": "",
+        "image": "netflix.PNG",
+        "url": "https://netflix-clone-c9420.web.app/"
+      },
+      {
+        "title": "LinkedIn Clone (Reactjs)",
+        "category": "",
+        "image": "linkedinMockup.PNG",
+        "url": "https://linkedin-clone-78c3d.web.app/"
+      },
+      {
+        "title": "Zoom Clone (Nodejs)",
+        "category": "",
+        "image": "zoom.JPG",
+        "url": "https://zoom-clone-chat-app.herokuapp.com/8b2a6fcd-84b3-4008-958c-85aa52d0a0ea"
+      },
+      {
+        "title": "Liz Hickey Lifedesign Django Website (Django)",
+        "category": "",
+        "image": "lizwebsite.JPG",
+        "url": "https://lizhickeylifedesign.herokuapp.com/"
+      },
+      {
+        "title": "Lets Get Quizzicle (JavaScript)",
+        "category": "",
+        "image": "trivia.JPG",
+        "url": "https://sophieh93.github.io/letsgetquizzicle/"
+      },
+      {
+        "title": "My Cookboon (Mongodb)",
+        "category": "",
+        "image": "cookbook.JPG",
+        "url": "http://my-cookbook2020.herokuapp.com/home"
+      },
+      {
+        "title": "Rachel Hickey Photography (Website)",
+        "category": "",
+        "image": "rachelwebsite.JPG",
+        "url": "https://sophieh93.github.io/RachelHickeyPhotpgraphy/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
