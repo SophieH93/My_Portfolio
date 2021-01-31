@@ -92,6 +92,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Blackjack (JavaScript)",
+        "category": "",
+        "image": "blackjack.JPG",
+        "url": "https://sophieh93.github.io/blackjack/"
+      },
+      {
+        "title": "Weather API (JavaScript)",
+        "category": "",
+        "image": "weather.JPG",
+        "url": "https://sophieh93.github.io/weatherAPI/"
+      },
+      {
         "title": "Spotify Clone (Reactjs)",
         "category": "",
         "image": "spotify.JPG",
