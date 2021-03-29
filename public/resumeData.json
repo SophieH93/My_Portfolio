@@ -92,6 +92,24 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Apple Website (Bootstrap)",
+        "category": "",
+        "image": "applewebsite.JPG",
+        "url": "sophieh93.github.io/applewebsite/"
+      },
+      {
+        "title": "Airbnb Clone (Reactjs)",
+        "category": "",
+        "image": "airbnbwebsite.JPG",
+        "url": "https://airbnb-clone-f2099.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker (JavaScript)",
+        "category": "",
+        "image": "covid19.JPG",
+        "url": "sophieh93.github.io/covid19tracker/"
+      },
+      {
         "title": "Blackjack (JavaScript)",
         "category": "",
         "image": "blackjack.JPG",
